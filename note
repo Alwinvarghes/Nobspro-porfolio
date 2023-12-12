@@ -1,0 +1,42 @@
+     fav icon 
+      link rel="icon" type="image/x-icon" href="https://cdn-icons-png.flaticon.com/512/541/541957.png"
+this to made icon like logo to our web page
+ and type= image/xicon
+
+
+ universal selecto sympol = *
+
+ font family to change  font style in our web page
+
+ googl font to change font style of our web page and we can select the font style from web page
+ just search google fonts and copy link of web page  and past  on our html pgm file
+ but we can not see it on our web page so we go to our google font page and select our previous selected font and scrool down then copy
+ from font family
+and paste  it on style.css folder in font family
+
+
+font aweosome cdn(condent delivrey network) to give fonts to our web page and some of the fonts are paid 
+cdn means it gives content on one website it gives to our website
+position
+<nav>--is navigation bar
+      display flex -is moving side by side
+
+
+id - is using css #
+class-is using css .
+space-between=end to end side
+align center= is verticlly center str
+inline-block is it respects bottom padding
+list dot is hidding to list-style:none; 
+pesudo= class- it is keyword add to selector that is specifis a special state of selected elements.
+visite,active,hover
+
+
+position realtive
+position absulte-realtive position realted to abulte
+
+
+
+grid tag=> is using coloum and row 
+1frame=255px equal 
+1rem=60px
